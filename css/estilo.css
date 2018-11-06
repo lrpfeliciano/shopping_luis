@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+
+p {
+/*    background-color: green;*/
+}
+
+a {
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 15px;
+}
+
+a:link {
+    color: green;
+}
+
+a:visited {
+    color: darkgoldenrod;
+}
+
+a:hover {
+    color:red;
+         text-transform: uppercase; 
+
+}
+
+a:active {
+    color: lightcoral;
+     text-transform: uppercase; 
+
+}
+
+div{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
